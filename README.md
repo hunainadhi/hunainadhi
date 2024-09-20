@@ -52,7 +52,7 @@ If you're a fellow coder, innovator, or just someone who loves turning ideas int
 
 ## 📈 Activity Graph
 
-![Hunain's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hunainadhi&theme=react-dark&bg_color=20232a&hide_border=true&line=F85D7F&color=F85D7F)
+![Hunain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hunainadhi&theme=react-dark&bg_color=20232a&hide_border=true&line=F85D7F&color=F85D7F)
 
 ---
 
