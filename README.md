@@ -1,6 +1,6 @@
-# Hey there, I'm Hunain Adhikari! 👋
+# Hey there, I'm Hunain Adhikari! 👋  
 
-🎓 **Master’s in Applied Computing** | 💻 **Ex-Barclays Software Engineer** | 🚀 **Aspiring Tech Innovator**
+🎓 **Master’s in Applied Computing** | :cloud: **AWS Certified Cloud Practitioner** | 💻 **Ex-Barclays Software Engineer** | 🚀 **Aspiring Tech Innovator**
 
 ---
 
@@ -27,7 +27,7 @@ Here’s what I’ve got under my hood:
 - **Languages**: C++, Python, JavaScript, Rust, Java
 - **Frameworks**: React, Node.js, Flask
 - **Blockchain**: Solana, web3, Ethereum, Rust
-- **Cloud**: AWS Cloud ☁️ (Currently preparing for AWS Certified Cloud Practitioner exam)
+- **Cloud**: AWS Cloud ☁️ (Currently AWS Certified Cloud Practitioner)
 
 ---
 
@@ -39,6 +39,11 @@ If you're a fellow coder, innovator, or just someone who loves turning ideas int
 **Let's create something epic!** 💡
 
 ---
+
+## 🏆 Certifications
+## 🏆 Certifications
+![AWS Certified Cloud Practitioner]((aws-certified-cloud-practitioner.png))
+
 
 ## 📊 GitHub Stats & Streaks
 
@@ -55,4 +60,3 @@ If you're a fellow coder, innovator, or just someone who loves turning ideas int
 ![Hunain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hunainadhi&theme=react-dark&bg_color=20232a&hide_border=true&line=F85D7F&color=F85D7F)
 
 ---
-
