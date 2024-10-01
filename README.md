@@ -41,8 +41,7 @@ If you're a fellow coder, innovator, or just someone who loves turning ideas int
 ---
 
 ## 🏆 Certifications
-## 🏆 Certifications
-![AWS Certified Cloud Practitioner]((aws-certified-cloud-practitioner.png))
+![AWS Certified Cloud Practitioner](aws-certified-cloud-practitioner-216.png)
 
 
 ## 📊 GitHub Stats & Streaks
