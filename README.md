@@ -2,7 +2,7 @@
 
 🎓 **Master's in Applied Computing @ Wilfrid Laurier** | ☁️ **AWS Certified Cloud Practitioner** | 💻 **Full-Stack Developer & Builder**
 
-📍 Waterloo, ON, Canada &nbsp;|&nbsp; 📧 ahunain99@gmail.com &nbsp;|&nbsp; 📞 +1 (519)-400-4513
+📍 Waterloo, ON, Canada &nbsp;|&nbsp; 📧 ahunain99@gmail.com &nbsp;|&nbsp;
 
 ---
 
